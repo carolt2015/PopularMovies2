@@ -6,7 +6,7 @@ import android.accounts.AccountAuthenticatorResponse;
 import android.accounts.NetworkErrorException;
 import android.content.Context;
 import android.os.Bundle;
-//  Manages "Authentication" to Sunshine's backend service.
+
 //http://developer.android.com/training/sync-adapters/creating-authenticator.html
 
 public class MovieAuthenticator extends AbstractAccountAuthenticator {
