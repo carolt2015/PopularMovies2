@@ -3,4 +3,5 @@ Popular Movies (Stage 2 implementation) is an Android app displays the most popu
 Instructions for running the app:
 - Include an API key from themoviedb.org in the 'gradle.properties'.
 
-![](images/PopularMovies.png)                                                          
+![](images/PopularMoviesImage.png)    
+![](images/PopularMovieImage2.png)  
